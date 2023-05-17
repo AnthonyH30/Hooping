@@ -20,7 +20,11 @@ export const Container = styled.header`
     }
 
     h2{
-        font-size: 20px;
+        font-size: 25px;
+
+        a{
+            color: rgba(231,120,12,1);
+        }
     }
 
     
