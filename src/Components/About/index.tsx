@@ -15,13 +15,14 @@ export default function About() {
           amadores entusiasmados até jogadores profissionais dedicados. Se você
           é um iniciante ansioso para aprimorar suas habilidades, um veterano
           experiente em busca de novos desafios ou quer montar aquele time de
-          respeito para o rachão a Hooping é o lugar certo para você. Uma parte
-          essencial da nossa missão é fornecer informações detalhadas sobre as
-          melhores quadras de basquete em todo o Brasil. Sabemos que encontrar
-          uma quadra adequada pode ser um desafio, especialmente para jogadores
-          novos ou visitantes. É por isso que criamos um banco de dados
-          abrangente com as quadras mais populares e acessíveis em todas as
-          regiões do país.
+          respeito para o rachão a Hooping é o lugar certo para você.
+          <br /> <br />
+          Uma parte essencial da nossa missão é fornecer informações detalhadas
+          sobre as melhores quadras de basquete em todo o Brasil. Sabemos que
+          encontrar uma quadra adequada pode ser um desafio, especialmente para
+          jogadores novos ou visitantes. É por isso que criamos um banco de
+          dados abrangente com as quadras mais populares e acessíveis em todas
+          as regiões do país.
         </p>
       </ContainerText>
       <img src={imgtext} alt="imagem text" />
