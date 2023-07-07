@@ -23,7 +23,7 @@ export const Container = styled.header`
         font-size: 25px;
 
         a{
-            color: rgba(231,120,12,1);
+            color: #e7780c;
         }
     }
 
